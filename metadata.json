@@ -1,0 +1,7 @@
+{
+  "name": "BizVoice Assistant",
+  "description": "A professional conversational AI assistant capable of handling client calls, taking notes, and summarizing discussions using Gemini Live API.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
